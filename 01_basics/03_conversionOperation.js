@@ -22,3 +22,34 @@ console.log(booleanIsLoggedIn);
 let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(stringNumber);
+
+// ********************OPERATIONS*************************//
+
+let value = 3
+let negativeValue = -value
+console.log(negativeValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2**2);
+// console.log(2%2);
+
+let str1 = "hello"
+let str2 = "Shreya"
+
+let str3 = str1 + str2
+console.log(str3);
+
+console.log("1" + 2 + 2); //string is first so output will be 122
+console.log(2 + 2 + "1"); // int is first so output will be 41
+
+
+let gameCounter = 100
+gameCounter++; // ++gameCounter are same thing
+console.log(gameCounter);
+
+
+
+
